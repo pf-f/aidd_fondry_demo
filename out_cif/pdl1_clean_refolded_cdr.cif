@@ -1,0 +1,183 @@
+data_pdl1_clean_refolded_cdr.cif
+#
+_entry.id       pdl1_clean_refolded_cdr.cif
+_entry.author   alex
+_entry.date     2026-01-26
+_entry.time     01:27:58
+#
+_entity_poly.entity_id                      0
+_entity_poly.type                           polypeptide(l)
+_entity_poly.nstd_linkage                   no
+_entity_poly.nstd_monomer                   no
+_entity_poly.pdbx_seq_one_letter_code       EAASAILSALLQAAA
+_entity_poly.pdbx_seq_one_letter_code_can   EAASAILSALLQAAA
+_entity_poly.pdbx_strand_id                 A
+_entity_poly.pdbx_target_identifier         ?
+#
+loop_
+_chem_comp_bond.pdbx_ordinal 
+_chem_comp_bond.comp_id 
+_chem_comp_bond.atom_id_1 
+_chem_comp_bond.atom_id_2 
+_chem_comp_bond.value_order 
+_chem_comp_bond.pdbx_aromatic_flag 
+_chem_comp_bond.pdbx_stereo_config 
+1  GLU N   CA  SING N ?
+2  GLU CA  C   SING N ?
+3  GLU CA  CB  SING N ?
+4  GLU C   O   DOUB N ?
+5  GLU CB  CG  SING N ?
+6  GLU CG  CD  SING N ?
+7  GLU CD  OE1 DOUB N ?
+8  GLU CD  OE2 SING N ?
+9  ALA N   CA  SING N ?
+10 ALA CA  C   SING N ?
+11 ALA CA  CB  SING N ?
+12 ALA C   O   DOUB N ?
+13 SER N   CA  SING N ?
+14 SER CA  C   SING N ?
+15 SER CA  CB  SING N ?
+16 SER C   O   DOUB N ?
+17 SER CB  OG  SING N ?
+18 ILE N   CA  SING N ?
+19 ILE CA  C   SING N ?
+20 ILE CA  CB  SING N ?
+21 ILE C   O   DOUB N ?
+22 ILE CB  CG1 SING N ?
+23 ILE CB  CG2 SING N ?
+24 ILE CG1 CD1 SING N ?
+25 LEU N   CA  SING N ?
+26 LEU CA  C   SING N ?
+27 LEU CA  CB  SING N ?
+28 LEU C   O   DOUB N ?
+29 LEU CB  CG  SING N ?
+30 LEU CG  CD1 SING N ?
+31 LEU CG  CD2 SING N ?
+32 GLN N   CA  SING N ?
+33 GLN CA  C   SING N ?
+34 GLN CA  CB  SING N ?
+35 GLN C   O   DOUB N ?
+36 GLN CB  CG  SING N ?
+37 GLN CG  CD  SING N ?
+38 GLN CD  OE1 DOUB N ?
+39 GLN CD  NE2 SING N ?
+#
+loop_
+_atom_site.group_PDB 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.id 
+_atom_site.occupancy 
+_atom_site.pdbx_formal_charge 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.pdbx_PDB_model_num 
+ATOM N N   . GLU A 0 1  . 1  GLU A N   0  1.0 ? -15.612371  -0.42294836 -4.303597    1
+ATOM C CA  . GLU A 0 1  . 1  GLU A CA  1  1.0 ? -16.249586  -0.846784   -3.0919104   1
+ATOM C C   . GLU A 0 1  . 1  GLU A C   2  1.0 ? -16.190144  -2.3169994  -2.7763805   1
+ATOM O O   . GLU A 0 1  . 1  GLU A O   3  1.0 ? -15.990879  -2.711408   -1.6085804   1
+ATOM C CB  . GLU A 0 1  . 1  GLU A CB  4  1.0 ? -17.776804  -0.49919444 -3.1854918   1
+ATOM C CG  . GLU A 0 1  . 1  GLU A CG  5  1.0 ? -18.123453  0.98182     -2.9793816   1
+ATOM C CD  . GLU A 0 1  . 1  GLU A CD  6  1.0 ? -19.519848  1.2712094   -3.00915     1
+ATOM O OE1 . GLU A 0 1  . 1  GLU A OE1 7  1.0 ? -20.314571  0.46382186  -3.5369127   1
+ATOM O OE2 . GLU A 0 1  . 1  GLU A OE2 8  1.0 ? -19.985382  2.346613    -2.4802828   1
+ATOM N N   . ALA A 0 2  . 2  ALA A N   9  1.0 ? -16.191227  -3.121637   -3.8088377   1
+ATOM C CA  . ALA A 0 2  . 2  ALA A CA  10 1.0 ? -15.981272  -4.5310745  -3.5994403   1
+ATOM C C   . ALA A 0 2  . 2  ALA A C   11 1.0 ? -14.589414  -4.850567   -3.074834    1
+ATOM O O   . ALA A 0 2  . 2  ALA A O   12 1.0 ? -14.431009  -5.6524863  -2.1808748   1
+ATOM C CB  . ALA A 0 2  . 2  ALA A CB  13 1.0 ? -16.281214  -5.313586   -4.9282503   1
+ATOM N N   . ALA A 0 3  . 3  ALA A N   14 1.0 ? -13.68376   -4.204535   -3.6453798   1
+ATOM C CA  . ALA A 0 3  . 3  ALA A CA  15 1.0 ? -12.309604  -4.3724875  -3.1647499   1
+ATOM C C   . ALA A 0 3  . 3  ALA A C   16 1.0 ? -12.138237  -3.9210055  -1.7306087   1
+ATOM O O   . ALA A 0 3  . 3  ALA A O   17 1.0 ? -11.462694  -4.542319   -0.9617684   1
+ATOM C CB  . ALA A 0 3  . 3  ALA A CB  18 1.0 ? -11.318251  -3.5838304  -4.0968485   1
+ATOM N N   . SER A 0 4  . 4  SER A N   19 1.0 ? -12.761803  -2.8442822  -1.4237761   1
+ATOM C CA  . SER A 0 4  . 4  SER A CA  20 1.0 ? -12.803174  -2.3289616  -0.057398595 1
+ATOM C C   . SER A 0 4  . 4  SER A C   21 1.0 ? -13.371949  -3.3393042  0.9023704    1
+ATOM O O   . SER A 0 4  . 4  SER A O   22 1.0 ? -12.84243   -3.566628   1.9791275    1
+ATOM C CB  . SER A 0 4  . 4  SER A CB  23 1.0 ? -13.546407  -1.0565691  0.017550454  1
+ATOM O OG  . SER A 0 4  . 4  SER A OG  24 1.0 ? -12.720991  0.05714634  0.22170246   1
+ATOM N N   . ALA A 0 5  . 5  ALA A N   25 1.0 ? -14.424335  -3.9538162  0.5484755    1
+ATOM C CA  . ALA A 0 5  . 5  ALA A CA  26 1.0 ? -15.083776  -4.943501   1.3754808    1
+ATOM C C   . ALA A 0 5  . 5  ALA A C   27 1.0 ? -14.22275   -6.156429   1.5757806    1
+ATOM O O   . ALA A 0 5  . 5  ALA A O   28 1.0 ? -14.063036  -6.6757236  2.6779993    1
+ATOM C CB  . ALA A 0 5  . 5  ALA A CB  29 1.0 ? -16.484024  -5.362204   0.76518035   1
+ATOM N N   . ILE A 0 6  . 6  ILE A N   30 1.0 ? -13.511122  -6.5709987  0.53158706   1
+ATOM C CA  . ILE A 0 6  . 6  ILE A CA  31 1.0 ? -12.686313  -7.676272   0.60199946   1
+ATOM C C   . ILE A 0 6  . 6  ILE A C   32 1.0 ? -11.487645  -7.381956   1.5083095    1
+ATOM O O   . ILE A 0 6  . 6  ILE A O   33 1.0 ? -11.1162405 -8.185215   2.3396258    1
+ATOM C CB  . ILE A 0 6  . 6  ILE A CB  34 1.0 ? -12.167643  -8.098627   -0.77398425  1
+ATOM C CG1 . ILE A 0 6  . 6  ILE A CG1 35 1.0 ? -13.364306  -8.626955   -1.5950906   1
+ATOM C CG2 . ILE A 0 6  . 6  ILE A CG2 36 1.0 ? -11.03017   -9.145072   -0.6801762   1
+ATOM C CD1 . ILE A 0 6  . 6  ILE A CD1 37 1.0 ? -12.981181  -8.845329   -3.0510216   1
+ATOM N N   . LEU A 0 7  . 7  LEU A N   38 1.0 ? -10.895058  -6.2033515  1.3485647    1
+ATOM C CA  . LEU A 0 7  . 7  LEU A CA  39 1.0 ? -9.821714   -5.797354   2.1810067    1
+ATOM C C   . LEU A 0 7  . 7  LEU A C   40 1.0 ? -10.175028  -5.687532   3.6205413    1
+ATOM O O   . LEU A 0 7  . 7  LEU A O   41 1.0 ? -9.439221   -6.1024756  4.5256143    1
+ATOM C CB  . LEU A 0 7  . 7  LEU A CB  42 1.0 ? -9.204978   -4.4618807  1.6888742    1
+ATOM C CG  . LEU A 0 7  . 7  LEU A CG  43 1.0 ? -8.4411335  -4.540357   0.40891668   1
+ATOM C CD1 . LEU A 0 7  . 7  LEU A CD1 44 1.0 ? -8.137709   -3.1205952  -0.099320635 1
+ATOM C CD2 . LEU A 0 7  . 7  LEU A CD2 45 1.0 ? -7.130197   -5.2779117  0.64959604   1
+ATOM N N   . SER A 0 8  . 8  SER A N   46 1.0 ? -11.319664  -5.180234   3.874796     1
+ATOM C CA  . SER A 0 8  . 8  SER A CA  47 1.0 ? -11.841518  -5.057159   5.257606     1
+ATOM C C   . SER A 0 8  . 8  SER A C   48 1.0 ? -12.043559  -6.447058   5.869595     1
+ATOM O O   . SER A 0 8  . 8  SER A O   49 1.0 ? -11.675715  -6.6211624  7.0452323    1
+ATOM C CB  . SER A 0 8  . 8  SER A CB  50 1.0 ? -13.1526    -4.2957706  5.273926     1
+ATOM O OG  . SER A 0 8  . 8  SER A OG  51 1.0 ? -12.967823  -2.9559872  4.891501     1
+ATOM N N   . ALA A 0 9  . 9  ALA A N   52 1.0 ? -12.5227375 -7.353601   5.096294     1
+ATOM C CA  . ALA A 0 9  . 9  ALA A CA  53 1.0 ? -12.756472  -8.680322   5.603086     1
+ATOM C C   . ALA A 0 9  . 9  ALA A C   54 1.0 ? -11.395156  -9.3932495  5.909915     1
+ATOM O O   . ALA A 0 9  . 9  ALA A O   55 1.0 ? -11.229386  -10.018338  6.920893     1
+ATOM C CB  . ALA A 0 9  . 9  ALA A CB  56 1.0 ? -13.526884  -9.537281   4.5685716    1
+ATOM N N   . LEU A 0 10 . 10 LEU A N   57 1.0 ? -10.474467  -9.141294   5.045865     1
+ATOM C CA  . LEU A 0 10 . 10 LEU A CA  58 1.0 ? -9.126515   -9.759996   5.2342544    1
+ATOM C C   . LEU A 0 10 . 10 LEU A C   59 1.0 ? -8.470122   -9.092127   6.4592557    1
+ATOM O O   . LEU A 0 10 . 10 LEU A O   60 1.0 ? -7.834108   -9.7844715  7.2258577    1
+ATOM C CB  . LEU A 0 10 . 10 LEU A CB  61 1.0 ? -8.234652   -9.524939   4.0087776    1
+ATOM C CG  . LEU A 0 10 . 10 LEU A CG  62 1.0 ? -8.644706   -10.387874  2.7727726    1
+ATOM C CD1 . LEU A 0 10 . 10 LEU A CD1 63 1.0 ? -7.7620454  -9.952879   1.5899559    1
+ATOM C CD2 . LEU A 0 10 . 10 LEU A CD2 64 1.0 ? -8.4124155  -11.844496  3.076078     1
+ATOM N N   . LEU A 0 11 . 11 LEU A N   65 1.0 ? -8.595091   -7.8226395  6.600043     1
+ATOM C CA  . LEU A 0 11 . 11 LEU A CA  66 1.0 ? -7.992815   -7.140698   7.7293673    1
+ATOM C C   . LEU A 0 11 . 11 LEU A C   67 1.0 ? -8.66304    -7.6148906  9.043722     1
+ATOM O O   . LEU A 0 11 . 11 LEU A O   68 1.0 ? -7.973894   -7.7866144  10.024564    1
+ATOM C CB  . LEU A 0 11 . 11 LEU A CB  69 1.0 ? -8.135567   -5.664511   7.5456       1
+ATOM C CG  . LEU A 0 11 . 11 LEU A CG  70 1.0 ? -7.4217596  -4.75687    8.556594     1
+ATOM C CD1 . LEU A 0 11 . 11 LEU A CD1 71 1.0 ? -5.9353485  -4.9985356  8.4936695    1
+ATOM C CD2 . LEU A 0 11 . 11 LEU A CD2 72 1.0 ? -7.7379603  -3.3112772  8.303589     1
+ATOM N N   . GLN A 0 12 . 12 GLN A N   73 1.0 ? -9.918615   -7.762892   9.033552     1
+ATOM C CA  . GLN A 0 12 . 12 GLN A CA  74 1.0 ? -10.585532  -8.25425    10.233295    1
+ATOM C C   . GLN A 0 12 . 12 GLN A C   75 1.0 ? -10.17768   -9.674879   10.558379    1
+ATOM O O   . GLN A 0 12 . 12 GLN A O   76 1.0 ? -10.022617  -9.984867   11.759238    1
+ATOM C CB  . GLN A 0 12 . 12 GLN A CB  77 1.0 ? -12.089331  -8.203701   10.00749     1
+ATOM C CG  . GLN A 0 12 . 12 GLN A CG  78 1.0 ? -12.970156  -8.570834   11.22245     1
+ATOM C CD  . GLN A 0 12 . 12 GLN A CD  79 1.0 ? -12.76148   -7.501642   12.283619    1
+ATOM O OE1 . GLN A 0 12 . 12 GLN A OE1 80 1.0 ? -12.582105  -6.3517647  12.031219    1
+ATOM N NE2 . GLN A 0 12 . 12 GLN A NE2 81 1.0 ? -12.9012165 -7.984381   13.507361    1
+ATOM N N   . ALA A 0 13 . 13 ALA A N   82 1.0 ? -10.009933  -10.455871  9.572371     1
+ATOM C CA  . ALA A 0 13 . 13 ALA A CA  83 1.0 ? -9.568558   -11.841494  9.839375     1
+ATOM C C   . ALA A 0 13 . 13 ALA A C   84 1.0 ? -8.150516   -11.856347  10.407205    1
+ATOM O O   . ALA A 0 13 . 13 ALA A O   85 1.0 ? -7.8507895  -12.598895  11.238741    1
+ATOM C CB  . ALA A 0 13 . 13 ALA A CB  86 1.0 ? -9.620143   -12.650656  8.588481     1
+ATOM N N   . ALA A 0 14 . 14 ALA A N   87 1.0 ? -7.3290114  -10.965787  9.931577     1
+ATOM C CA  . ALA A 0 14 . 14 ALA A CA  88 1.0 ? -5.9751067  -10.880209  10.389139    1
+ATOM C C   . ALA A 0 14 . 14 ALA A C   89 1.0 ? -5.9220314  -10.410083  11.793352    1
+ATOM O O   . ALA A 0 14 . 14 ALA A O   90 1.0 ? -5.0197983  -10.717867  12.562754    1
+ATOM C CB  . ALA A 0 14 . 14 ALA A CB  91 1.0 ? -5.148869   -9.984627   9.487674     1
+ATOM N N   . ALA A 0 15 . 15 ALA A N   92 1.0 ? -6.822107   -9.54178    12.179924    1
+ATOM C CA  . ALA A 0 15 . 15 ALA A CA  93 1.0 ? -6.8822107  -8.974408   13.508221    1
+ATOM C C   . ALA A 0 15 . 15 ALA A C   94 1.0 ? -7.3842177  -10.040393  14.484989    1
+ATOM O O   . ALA A 0 15 . 15 ALA A O   95 1.0 ? -6.803774   -10.254028  15.575108    1
+ATOM C CB  . ALA A 0 15 . 15 ALA A CB  96 1.0 ? -7.7787056  -7.805726   13.58423     1
+#

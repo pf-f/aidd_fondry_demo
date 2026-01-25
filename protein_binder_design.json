@@ -1,0 +1,14 @@
+{
+    "pdl1_clean": {
+        "dialect": 2,
+        "infer_ori_strategy": "hotspots",
+        "input": "/home/alex/aidd/PDL1-4ZQK/pd_l1_clean.pdb",
+        "contig": "12-18,/0,A18-132",
+        "select_hotspots": {
+            "A56": "CG,OH",
+            "A115": "CG,SD",
+            "A123": "CD2,OH"
+       },
+       "is_non_loopy": true
+    }
+}
