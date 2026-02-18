@@ -1,6 +1,3 @@
-- email：alex_fang@zju.edu.cn
-- data：2026/01/26
-
 1. setup:
 chmod +x install.sh && bash install.sh
 
